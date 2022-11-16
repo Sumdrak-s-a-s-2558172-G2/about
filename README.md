@@ -13,12 +13,23 @@ Programadores
 TECNOLOGIAS A UTILIZAR
 
 •	Backend 
+
               Por definir
+              
 •	FrontEnd 
+
               Por definir
+              
 •	Bases de datos 
-              Por definir
+
+              
+              or definir
+              
 •	Servidor 
+
               Por definir
+              
+              
 •	CI/CD
+
               Por definir
